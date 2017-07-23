@@ -12,13 +12,10 @@ We can scrape the website to find the nearest service points based on the locati
 
 To test the code locally.
 
-Download or clone to repo on your computer.
-
-cd into the downloaded folder.
-
-run npm install
-
-use command node app.js to run the scrapper
+1. Download or clone to repo on your computer.
+2. cd into the downloaded folder.
+3. run npm install
+4. use command node app.js to run the scrapper
 
 
 Result : csr activities will be added to csr.json file
